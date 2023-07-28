@@ -1,5 +1,6 @@
 ---
 # This playbook deploys a simple standalone Tomcat 7 server.
+# Just some text
 
 - hosts: tomcat-servers
   remote_user: root
